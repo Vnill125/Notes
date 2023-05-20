@@ -1,4 +1,4 @@
-My website where you can create and save your notes
+Website where you can create and save your notes
 
 Login page 
 ![login page ](https://user-images.githubusercontent.com/129762972/236938378-9415a6c0-6e0b-40da-a654-df6559041636.png)
