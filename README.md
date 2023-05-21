@@ -1,8 +1,11 @@
 Website where you can create and save your notes
 
 Login page 
-![login page ](https://user-images.githubusercontent.com/129762972/236938378-9415a6c0-6e0b-40da-a654-df6559041636.png)
+![1](https://github.com/Vnill125/Notes/assets/129762972/aaaf586b-c8e8-40be-b214-99bc75a80fce)
+
 Sing up page 
-![sing up page ](https://user-images.githubusercontent.com/129762972/236938410-0468e8c0-5940-4405-8e91-d98b8a01fabe.png)
+![3](https://github.com/Vnill125/Notes/assets/129762972/120fb169-bdf3-4bde-90e5-68cd3f681638)
+
 Page to add notes
-![add note ](https://user-images.githubusercontent.com/129762972/236938444-86e677af-a983-4219-a43b-2fe6156d2674.png)
+![2](https://github.com/Vnill125/Notes/assets/129762972/908eb316-ed89-4d18-8e24-593f0c96bb10)
+
